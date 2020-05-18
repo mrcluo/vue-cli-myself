@@ -12,6 +12,7 @@
   "devDependencies": {
     "css-loader": "^3.5.3",
     "html-webpack-plugin": "^4.3.0",
+    "page-skeleton-webpack-plugin": "^0.10.12",
     "style-loader": "^1.2.1",
     "vue": "^2.1.0",
     "vue-loader": "^15.9.2",
